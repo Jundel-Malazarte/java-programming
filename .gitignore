@@ -1,8 +1,8 @@
 /node_modules
+/.vscode
 /dist
 /.env
 /.idea
-/.vscode
 *.log
 *.class
 *.jar
@@ -40,7 +40,6 @@
 /.vercel
 /.turbo
 /.idea/
-/.vscode/
 /.history/
 .cache/
 .sass-cache/
