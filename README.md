@@ -12,12 +12,12 @@ Follow these steps to clone and run the Java Preliminaries program:
 - Open your terminal (CMD or PowerShell) || Vscode terminal
 - Run the following command to clone the repository:
   ```bash
-  git clone https://github.com/Jundel-Malazarte29/java-programming-exercises.git
+  git clone https://github.com/Jundel-Malazarte29/java-programming.git
   
 **Step 2: Change to the Repository Directory**
 - Navigate to the newly cloned repository directory
   ```bash
-  cd java-programming-exercises
+  cd java-programming
 
 **Step 3: Navigate to the src Folder**
 - The src folder contains the Java source code. Change to the src folder
