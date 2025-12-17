@@ -1,0 +1,8 @@
+Consonants: 5
+Percentage: 50
+Vowels: 1
+Percentage: 10
+Characters: 0
+Percentage: 0
+Spaces: 0
+Percentage: 0
